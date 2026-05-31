@@ -11,107 +11,109 @@ def calculate_car_score(car, preferences):
     if car.price_lakh <= preferences.budget:
         score += 20
 
-        # Extra points if close to budget
         diff = preferences.budget - car.price_lakh
 
         if diff <= 1:
             score += 10
+
         elif diff <= 3:
             score += 5
 
-    # Fuel type preference
+    # Fuel type
     if preferences.fuel_type:
         if car.fuel_type == preferences.fuel_type:
             score += 15
 
-    # Transmission preference
+    # Transmission
     if preferences.transmission:
         if car.transmission == preferences.transmission:
             score += 10
 
-    # Seating capacity preference
+    # Seating
     if preferences.seating_capacity:
         if car.seating_capacity >= preferences.seating_capacity:
             score += 10
 
-    # Body type preference
+    # Body type
     if preferences.body_type:
         if car.body_type == preferences.body_type:
             score += 10
 
-    # Usage based bonuses
+    # Usage scoring
     if preferences.usage:
 
         if preferences.usage == "City":
-            if car.mileage_kmpl and car.mileage_kmpl >= 18:
+
+            if car.mileage_kmpl >= 18:
                 score += 10
+
+            if car.transmission == "Automatic":
+                score += 5
+
+            if car.engine_cc <= 1500:
+                score += 5
 
         elif preferences.usage == "Highway":
-            if car.power_bhp and car.power_bhp >= 140:
+
+            if car.power_bhp >= 140:
                 score += 10
+
+            if car.safety_rating >= 4:
+                score += 8
+
+            if car.engine_cc >= 1200:
+                score += 5
 
         elif preferences.usage == "Family":
-            if car.boot_space_liters and car.boot_space_liters >= 400:
+
+            if car.boot_space_liters >= 400:
                 score += 10
 
-        elif preferences.usage == "Long Trips":
-            if (
-                car.boot_space_liters
-                and car.boot_space_liters >= 450
-            ):
+            if car.safety_rating >= 4:
                 score += 10
 
-        elif preferences.usage == "Off-road":
-            if "SUV" in car.body_type:
-                score += 10
+            if car.seating_capacity >= 5:
+                score += 5
+
+        elif preferences.usage == "Mixed":
+
+            score += car.safety_rating * 2
+            score += car.mileage_kmpl / 2
 
     # Priorities
     if preferences.priorities:
 
         for priority in preferences.priorities:
 
-            if priority == "Mileage":
-                if car.mileage_kmpl and car.mileage_kmpl >= 20:
-                    score += 8
+            if priority == "Safety":
 
-            elif priority == "Safety":
-                if car.safety_rating and car.safety_rating >= 4:
-                    score += 8
+                if car.safety_rating >= 4:
+                    score += 10
+
+            elif priority == "Mileage":
+
+                if car.mileage_kmpl >= 20:
+                    score += 10
 
             elif priority == "Performance":
-                if car.power_bhp and car.power_bhp >= 140:
-                    score += 8
 
-            elif priority == "Comfort":
-                if (
-                    car.boot_space_liters
-                    and car.boot_space_liters >= 400
-                ):
-                    score += 8
+                if car.power_bhp >= 140:
+                    score += 10
 
-            elif priority == "Features":
-                score += 5
+            elif priority == "Family":
 
-            elif priority == "Boot Space":
-                if (
-                    car.boot_space_liters
-                    and car.boot_space_liters >= 450
-                ):
-                    score += 8
+                if car.boot_space_liters >= 400:
+                    score += 5
 
-            elif priority == "Low Maintenance":
-                if car.make in [
-                    "Maruti Suzuki",
-                    "Toyota",
-                    "Honda"
-                ]:
-                    score += 8
+                if car.seating_capacity >= 5:
+                    score += 5
 
-            elif priority == "Road Presence":
-                if "SUV" in car.body_type:
-                    score += 8
+                if car.safety_rating >= 4:
+                    score += 5
 
     return score
+
+
 
 
 def get_recommendations(payload: RecommendationRequest, db: Session):

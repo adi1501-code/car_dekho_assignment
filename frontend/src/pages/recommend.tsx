@@ -43,7 +43,7 @@ interface RecommendationResult {
 const bodyTypes = ['SUV', 'Sedan', 'Hatchback']
 const fuelTypes = ['Petrol', 'Diesel', 'Hybrid', 'Electric']
 const seatingOptions = ['4', '5', '6', '7']
-const usageOptions = ['City', 'Highway', 'Family', 'Daily Commute', 'Long Trips', 'Off-road']
+const usageOptions = ['City', 'Highway', 'Family', 'Mixed']
 const priorityOptions = ['Safety', 'Mileage', 'Performance', 'Family']
 const transmissionOptions = ['Automatic', 'Manual']
 
