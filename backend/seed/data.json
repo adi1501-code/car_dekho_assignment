@@ -1,0 +1,1112 @@
+[
+  {
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "variant": "Alpha AMT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 9.8,
+    "mileage_kmpl": 22.9,
+    "engine_cc": 1197,
+    "power_bhp": 88.5,
+    "safety_rating": 4,
+    "boot_space_liters": 318,
+    "user_reviews": [
+      {
+        "review_text": "Very smooth for city driving and easy to park.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Mileage is excellent in daily office commute.",
+        "rating": 4
+      },
+      {
+        "review_text": "Cabin feels premium for the price.",
+        "rating": 4.2
+      },
+      {
+        "review_text": "AMT can feel slightly laggy sometimes.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Rear seat comfort is good for family trips.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Verna",
+    "variant": "SX(O) Turbo DCT",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 17.6,
+    "mileage_kmpl": 20.6,
+    "engine_cc": 1482,
+    "power_bhp": 157,
+    "safety_rating": 5,
+    "boot_space_liters": 528,
+    "user_reviews": [
+      {
+        "review_text": "Turbo engine feels very quick on highways.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Looks futuristic and gets lots of attention.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Rear seat space is surprisingly good.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Suspension is slightly stiff on bad roads.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Feature list is insane for this segment.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Nexon",
+    "variant": "Fearless Plus Diesel",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "transmission": "Manual",
+    "seating_capacity": 5,
+    "price_lakh": 14.2,
+    "mileage_kmpl": 23.2,
+    "engine_cc": 1497,
+    "power_bhp": 113,
+    "safety_rating": 5,
+    "boot_space_liters": 382,
+    "user_reviews": [
+      {
+        "review_text": "Feels very solid and safe on highways.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Diesel mileage is genuinely impressive.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Infotainment still needs smoother software.",
+        "rating": 3.7
+      },
+      {
+        "review_text": "Good road presence for the price.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Suspension handles potholes really well.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "make": "Mahindra",
+    "model": "Scorpio N",
+    "variant": "Z8L AT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 7,
+    "price_lakh": 24.5,
+    "mileage_kmpl": 13.8,
+    "engine_cc": 1997,
+    "power_bhp": 200,
+    "safety_rating": 5,
+    "boot_space_liters": 460,
+    "user_reviews": [
+      {
+        "review_text": "Power delivery is excellent on highways.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Feels huge while driving in traffic.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Third row is usable for adults on short trips.",
+        "rating": 4.2
+      },
+      {
+        "review_text": "Ride quality is much better than old Scorpio.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Mileage could have been better.",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "City",
+    "variant": "ZX CVT",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 16.4,
+    "mileage_kmpl": 18.4,
+    "engine_cc": 1498,
+    "power_bhp": 119,
+    "safety_rating": 4,
+    "boot_space_liters": 506,
+    "user_reviews": [
+      {
+        "review_text": "Cabin comfort is still best in segment.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "CVT is very smooth in city traffic.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Ground clearance can be an issue sometimes.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Rear seat space is excellent for family use.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Engine refinement is top notch.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "variant": "ZX Hybrid",
+    "body_type": "MPV",
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "seating_capacity": 7,
+    "price_lakh": 31.2,
+    "mileage_kmpl": 21.1,
+    "engine_cc": 1987,
+    "power_bhp": 184,
+    "safety_rating": 5,
+    "boot_space_liters": 300,
+    "user_reviews": [
+      {
+        "review_text": "Extremely comfortable for long road trips.",
+        "rating": 4.9
+      },
+      {
+        "review_text": "Hybrid mileage is very good for such a big car.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Waiting period was frustrating.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Captain seats are super comfortable.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Easy to drive despite its size.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "X-Line DCT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 20.1,
+    "mileage_kmpl": 17.7,
+    "engine_cc": 1482,
+    "power_bhp": 158,
+    "safety_rating": 3,
+    "boot_space_liters": 433,
+    "user_reviews": [
+      {
+        "review_text": "Interior quality feels very premium.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Turbo petrol is fun to drive.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Ride gets bouncy on rough roads.",
+        "rating": 3.7
+      },
+      {
+        "review_text": "Features are better than most rivals.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Ventilated seats are very useful in summer.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "variant": "GT Plus DSG",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 18.9,
+    "mileage_kmpl": 18.1,
+    "engine_cc": 1498,
+    "power_bhp": 148,
+    "safety_rating": 5,
+    "boot_space_liters": 521,
+    "user_reviews": [
+      {
+        "review_text": "Driving dynamics are amazing on highways.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "DSG gearbox feels very responsive.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Service costs are slightly on higher side.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Feels planted even at high speeds.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Rear seat underthigh support could improve.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series",
+    "variant": "330Li M Sport",
+    "body_type": "Premium Sedan",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 62.5,
+    "mileage_kmpl": 15.3,
+    "engine_cc": 1998,
+    "power_bhp": 254,
+    "safety_rating": 5,
+    "boot_space_liters": 480,
+    "user_reviews": [
+      {
+        "review_text": "Performance is addictive every single time.",
+        "rating": 5
+      },
+      {
+        "review_text": "Rear seat space is surprisingly spacious.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Maintenance costs are definitely expensive.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Ride comfort and handling balance is excellent.",
+        "rating": 4.9
+      },
+      {
+        "review_text": "Cabin feels luxurious and modern.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "make": "Renault",
+    "model": "Kiger",
+    "variant": "RXZ Turbo CVT",
+    "body_type": "Compact SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 11.3,
+    "mileage_kmpl": 18.2,
+    "engine_cc": 999,
+    "power_bhp": 99,
+    "safety_rating": 4,
+    "boot_space_liters": 405,
+    "user_reviews": [
+      {
+        "review_text": "Very practical for city and weekend drives.",
+        "rating": 4.2
+      },
+      {
+        "review_text": "Boot space is excellent for luggage.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Cabin plastics could have been better.",
+        "rating": 3.6
+      },
+      {
+        "review_text": "Compact size makes parking very easy.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Turbo engine feels peppy in traffic.",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "make": "Skoda",
+    "model": "Slavia",
+    "variant": "Style 1.5 TSI DSG",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 19.2,
+    "mileage_kmpl": 18.7,
+    "engine_cc": 1498,
+    "power_bhp": 148,
+    "safety_rating": 5,
+    "boot_space_liters": 521,
+    "user_reviews": [
+      {
+        "review_text": "Very stable at highway speeds.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Cabin quality feels premium and solid.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "DSG gearbox is smooth most of the time.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "AC performance could be better in peak summer.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Rear seat comfort is excellent for long drives.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7L Diesel AT AWD",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "seating_capacity": 7,
+    "price_lakh": 29.4,
+    "mileage_kmpl": 16.5,
+    "engine_cc": 2198,
+    "power_bhp": 182,
+    "safety_rating": 5,
+    "boot_space_liters": 240,
+    "user_reviews": [
+      {
+        "review_text": "ADAS features work surprisingly well on highways.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Diesel engine has massive pulling power.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Infotainment occasionally lags after startup.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Ride comfort is excellent even on bad roads.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Third row is decent for kids and short trips.",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Punch",
+    "variant": "Creative AMT",
+    "body_type": "Micro SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 9.4,
+    "mileage_kmpl": 18.8,
+    "engine_cc": 1199,
+    "power_bhp": 87,
+    "safety_rating": 5,
+    "boot_space_liters": 366,
+    "user_reviews": [
+      {
+        "review_text": "Feels very sturdy compared to small hatchbacks.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Perfect size for city traffic and parking.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "AMT shifts can feel slow during overtakes.",
+        "rating": 3.7
+      },
+      {
+        "review_text": "Ground clearance is excellent for Indian roads.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Cabin visibility is really good.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "variant": "SX Tech IVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 18.5,
+    "mileage_kmpl": 17.4,
+    "engine_cc": 1497,
+    "power_bhp": 113,
+    "safety_rating": 3,
+    "boot_space_liters": 433,
+    "user_reviews": [
+      {
+        "review_text": "Very comfortable suspension for daily use.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Cabin feels spacious and feature loaded.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "IVT gearbox is smooth in bumper traffic.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Highway stability could have been better.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Rear seat comfort is excellent for family trips.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Fortuner",
+    "variant": "Legender 4x4 AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "seating_capacity": 7,
+    "price_lakh": 48.3,
+    "mileage_kmpl": 12.4,
+    "engine_cc": 2755,
+    "power_bhp": 201,
+    "safety_rating": 5,
+    "boot_space_liters": 296,
+    "user_reviews": [
+      {
+        "review_text": "Road presence is unmatched on highways.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Diesel engine feels extremely reliable.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Ride quality is slightly stiff in city.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Perfect SUV for long road trips.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Maintenance is cheaper than expected for this size.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "make": "MG",
+    "model": "Hector",
+    "variant": "Sharp Pro CVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 22.1,
+    "mileage_kmpl": 13.7,
+    "engine_cc": 1451,
+    "power_bhp": 141,
+    "safety_rating": 5,
+    "boot_space_liters": 587,
+    "user_reviews": [
+      {
+        "review_text": "Cabin space is huge and very comfortable.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Large touchscreen feels very modern.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Mileage is low in city traffic.",
+        "rating": 3.6
+      },
+      {
+        "review_text": "Boot space is excellent for family luggage.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Ride quality is soft and comfortable.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "Elevate",
+    "variant": "ZX CVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 17.3,
+    "mileage_kmpl": 16.9,
+    "engine_cc": 1498,
+    "power_bhp": 119,
+    "safety_rating": 5,
+    "boot_space_liters": 458,
+    "user_reviews": [
+      {
+        "review_text": "Visibility from driver seat is excellent.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Honda engine refinement is really noticeable.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Interior design feels slightly basic.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Very comfortable for long family drives.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Ground clearance handles rough roads easily.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLA",
+    "variant": "220d 4MATIC",
+    "body_type": "Luxury SUV",
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 58.7,
+    "mileage_kmpl": 18.9,
+    "engine_cc": 1950,
+    "power_bhp": 188,
+    "safety_rating": 5,
+    "boot_space_liters": 435,
+    "user_reviews": [
+      {
+        "review_text": "Interior quality feels truly luxurious.",
+        "rating": 4.9
+      },
+      {
+        "review_text": "Diesel engine is smooth and powerful.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Rear seat space is average for the price.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Highway stability is excellent.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Infotainment system looks very premium.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "variant": "Alpha Plus Hybrid e-CVT",
+    "body_type": "SUV",
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 19.8,
+    "mileage_kmpl": 27.9,
+    "engine_cc": 1490,
+    "power_bhp": 114,
+    "safety_rating": 4,
+    "boot_space_liters": 373,
+    "user_reviews": [
+      {
+        "review_text": "Mileage is unbelievable in city traffic.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Cabin comfort is very good for family use.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Engine performance feels relaxed, not sporty.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Hybrid system works seamlessly.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Very easy SUV to drive daily.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "Citroen",
+    "model": "C3 Aircross",
+    "variant": "Max Turbo AT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 14.1,
+    "mileage_kmpl": 17.6,
+    "engine_cc": 1199,
+    "power_bhp": 109,
+    "safety_rating": 3,
+    "boot_space_liters": 444,
+    "user_reviews": [
+      {
+        "review_text": "Ride quality is amazing on broken roads.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Seats are very comfortable for long drives.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Feature list feels limited compared to rivals.",
+        "rating": 3.5
+      },
+      {
+        "review_text": "Turbo engine feels responsive in city.",
+        "rating": 4.2
+      },
+      {
+        "review_text": "Suspension tuning is excellent for Indian roads.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Carens",
+    "variant": "Luxury Plus Diesel AT",
+    "body_type": "MPV",
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "seating_capacity": 7,
+    "price_lakh": 19.4,
+    "mileage_kmpl": 19.1,
+    "engine_cc": 1493,
+    "power_bhp": 114,
+    "safety_rating": 3,
+    "boot_space_liters": 216,
+    "user_reviews": [
+      {
+        "review_text": "Very practical for big families and road trips.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Second row comfort is excellent.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Third row is slightly tight for adults.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Diesel automatic is smooth and efficient.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Feature list is better than most MPVs.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Harrier",
+    "variant": "Fearless Plus AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 26.2,
+    "mileage_kmpl": 16.8,
+    "engine_cc": 1956,
+    "power_bhp": 168,
+    "safety_rating": 5,
+    "boot_space_liters": 445,
+    "user_reviews": [
+      {
+        "review_text": "Feels extremely solid and safe on highways.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Ride quality handles rough roads very well.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Infotainment software still needs refinement.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Road presence is excellent in traffic.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Cabin insulation is very impressive.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "i20",
+    "variant": "Asta(O) IVT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 11.8,
+    "mileage_kmpl": 19.6,
+    "engine_cc": 1197,
+    "power_bhp": 87,
+    "safety_rating": 3,
+    "boot_space_liters": 311,
+    "user_reviews": [
+      {
+        "review_text": "Interior quality feels premium for a hatchback.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Very smooth automatic for city driving.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Rear seat headroom is slightly limited.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Music system sounds really good.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Easy car to drive daily in traffic.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "Mahindra",
+    "model": "Thar",
+    "variant": "LX Hard Top Diesel AT 4WD",
+    "body_type": "Off-road SUV",
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "seating_capacity": 4,
+    "price_lakh": 18.7,
+    "mileage_kmpl": 14.3,
+    "engine_cc": 2184,
+    "power_bhp": 130,
+    "safety_rating": 4,
+    "boot_space_liters": 600,
+    "user_reviews": [
+      {
+        "review_text": "Amazing road presence and off-road capability.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Automatic gearbox is very convenient in traffic.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Rear seat comfort is not great for long trips.",
+        "rating": 3.7
+      },
+      {
+        "review_text": "Feels very rugged and durable.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Highway wind noise is noticeable.",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Glanza",
+    "variant": "V AMT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 9.6,
+    "mileage_kmpl": 22.3,
+    "engine_cc": 1197,
+    "power_bhp": 88.5,
+    "safety_rating": 4,
+    "boot_space_liters": 318,
+    "user_reviews": [
+      {
+        "review_text": "Very fuel efficient for daily commuting.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Toyota service experience has been excellent.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "AMT performance is average during quick overtakes.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Cabin space is good for a small family.",
+        "rating": 4.3
+      },
+      {
+        "review_text": "Maintenance costs are very low.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "variant": "Premium Plus 40 TFSI",
+    "body_type": "Luxury Sedan",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 55.4,
+    "mileage_kmpl": 17.4,
+    "engine_cc": 1984,
+    "power_bhp": 201,
+    "safety_rating": 5,
+    "boot_space_liters": 460,
+    "user_reviews": [
+      {
+        "review_text": "Cabin refinement is absolutely top class.",
+        "rating": 4.9
+      },
+      {
+        "review_text": "Ride quality feels very comfortable.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Rear seat space could be better for the segment.",
+        "rating": 3.9
+      },
+      {
+        "review_text": "Performance is smooth and effortless.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Interior fit and finish is excellent.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "make": "Nissan",
+    "model": "Magnite",
+    "variant": "Tekna Turbo CVT",
+    "body_type": "Compact SUV",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 11.1,
+    "mileage_kmpl": 17.9,
+    "engine_cc": 999,
+    "power_bhp": 99,
+    "safety_rating": 4,
+    "boot_space_liters": 336,
+    "user_reviews": [
+      {
+        "review_text": "Value for money package overall.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Turbo engine feels punchy in city driving.",
+        "rating": 4.3
+      },
+      {
+        "review_text": "Cabin plastics feel slightly cheap.",
+        "rating": 3.6
+      },
+      {
+        "review_text": "Compact size makes parking effortless.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Good feature list at this price point.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "make": "Jeep",
+    "model": "Compass",
+    "variant": "Model S Diesel AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 33.8,
+    "mileage_kmpl": 15.7,
+    "engine_cc": 1956,
+    "power_bhp": 168,
+    "safety_rating": 5,
+    "boot_space_liters": 438,
+    "user_reviews": [
+      {
+        "review_text": "Build quality feels extremely solid.",
+        "rating": 4.7
+      },
+      {
+        "review_text": "Highway handling is excellent.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Maintenance costs are definitely high.",
+        "rating": 3.7
+      },
+      {
+        "review_text": "Cabin design still looks premium.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Diesel engine performance is very strong.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "variant": "Alpha Turbo AT",
+    "body_type": "Crossover",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 13.2,
+    "mileage_kmpl": 20.0,
+    "engine_cc": 998,
+    "power_bhp": 99,
+    "safety_rating": 3,
+    "boot_space_liters": 308,
+    "user_reviews": [
+      {
+        "review_text": "Looks sporty and modern on road.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Turbo petrol feels lively in traffic.",
+        "rating": 4.4
+      },
+      {
+        "review_text": "Rear seat width could be better.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Mileage is very good for a turbo engine.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Easy car to drive in crowded cities.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "make": "BYD",
+    "model": "Atto 3",
+    "variant": "Special Edition",
+    "body_type": "Electric SUV",
+    "fuel_type": "Electric",
+    "transmission": "Automatic",
+    "seating_capacity": 5,
+    "price_lakh": 34.0,
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "power_bhp": 201,
+    "safety_rating": 5,
+    "boot_space_liters": 440,
+    "user_reviews": [
+      {
+        "review_text": "Acceleration feels instant and very smooth.",
+        "rating": 4.8
+      },
+      {
+        "review_text": "Cabin quality surprised me positively.",
+        "rating": 4.6
+      },
+      {
+        "review_text": "Charging network still needs improvement.",
+        "rating": 3.8
+      },
+      {
+        "review_text": "Ride quality is comfortable for daily use.",
+        "rating": 4.5
+      },
+      {
+        "review_text": "Feature list is excellent for the price.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
